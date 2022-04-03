@@ -422,7 +422,7 @@ button[type='button']:hover,
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 .button-h1-section:hover,
-:focus {
+.button-h1-section:focus {
   background-color: var(--button-hover-blue);
   color: var(--white-color);
 }
